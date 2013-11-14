@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <Collection name="FaceBook Social Plug-ins" guid="{507B7EB2-D3E5-4F9E-88BB-777FDA06EC65}" system="No" updatable="Yes" blockNavigatorNode="No">
-	<HelpLink></HelpLink>
+	<HelpLink>http://support.contensive.com/Facebook-Social-Addons-Collection</HelpLink>
 	<Help></Help>
 	<Addon name="FaceBook Activity Feed" guid="{8FEAAEE3-EFBE-4227-9AB1-7A96744E2096}" type="Add-on">
 		<Copy></Copy>
